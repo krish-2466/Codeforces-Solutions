@@ -29,7 +29,6 @@ Codeforces-Solutions/
 ├── .gitignore
 ├── 800/
 │     ├── Watermelon.java
-│     └── README.md
 ├── 900/
 ├── 1000/
 ├── 1100/
@@ -38,8 +37,7 @@ Codeforces-Solutions/
 
 Each problem folder contains:
 
-- **Java solution:** The implementation of the solution.
-- **README.md:** The problem link, approach, algorithm, explanation, examples, and complexity analysis.
+- **Java solution:** The implementation of the solution, the problem link, approach, algorithm, explanation, and complexity analysis.
 
 ## 📖 What Each Solution Includes
 
